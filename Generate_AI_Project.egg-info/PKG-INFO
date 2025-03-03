@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: Generate-AI-Project
+Version: 0.1
+Summary: A simple python package to generate a template for AI project
+Author: Shaik Hidaythulla
+Author-email: shaik.hidaythulla07@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
