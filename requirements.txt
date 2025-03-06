@@ -7,6 +7,6 @@ langchain_huggingface
 flask
 pypdf
 python-dotenv
- 
+streamlit
 
 -e .
